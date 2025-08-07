@@ -1,4 +1,4 @@
-# Vitor Lemos
+# Miguel Ramos
 **Tecnólogo & Estudante de Ciência da Computação**  
 - 🖥️ Técnico em TI pelo Instituto Federal do Rio de Janeiro (IFRJ)
 - 🎓 Formado no ensino médio no Instituto Federal do Rio de Janeiro (IFRJ)     
